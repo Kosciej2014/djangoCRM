@@ -1,4 +1,10 @@
-Current version[0.0.2]
+Current version[0.1.2]
+
+Version [0.1.2]
+- add register page and access [MINOR]
+- add forms.py
+- create register class
+- add new endpoint
 
 Version [0.0.2]
 - add home page [PATCH]
