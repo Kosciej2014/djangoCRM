@@ -1,15 +1,23 @@
-Current version[0.1.2]
+Current version[0.2.2]
+
+Version [0.2.2]
+-add models in MySQL [MINOR]
+- add new endpoint (Record)
+- make customer site [MINOR]
+- change home page [MINOR]
+- admin site make Record [PATCH]
+- record page html [MIROR]
 
 Version [0.1.2]
 - add register page and access [MINOR]
-- add forms.py
-- create register class
-- add new endpoint
+- add forms.py [PATCH]
+- create register class  [MINOR]
+- add new endpoint [MINOR]
 
 Version [0.0.2]
 - add home page [PATCH]
 - add login and logout [PATCH]
-- add Changelog
+- add Changelog [PATCH]
 
 Version [0.0.1]
 - create project
