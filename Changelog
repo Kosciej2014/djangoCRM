@@ -1,4 +1,11 @@
-Current version[0.2.2]
+Current version[0.3.2]
+
+
+Version [0.3.2]
+-adding delete and add record
+-adding update record
+
+
 
 Version [0.2.2]
 -add models in MySQL [MINOR]
@@ -6,7 +13,7 @@ Version [0.2.2]
 - make customer site [MINOR]
 - change home page [MINOR]
 - admin site make Record [PATCH]
-- record page html [MIROR]
+- record page html [MINOR]
 
 Version [0.1.2]
 - add register page and access [MINOR]
