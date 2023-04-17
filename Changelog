@@ -1,10 +1,10 @@
-Current version[0.3.2]
+Current version[0.3.3]
 
 
-Version [0.3.2]
--adding delete and add record
--adding update record
-
+Version [0.3.3]
+- adding delete and add record
+- adding update record
+-  create requirement.txt
 
 
 Version [0.2.2]
